@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "petzey-petcare-managment",
+    "staging": "petzey-petcare-managment"
+  },
+  "targets": {},
+  "etags": {}
+}
